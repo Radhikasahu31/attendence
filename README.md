@@ -1,2 +1,2 @@
-# attendify
+#attendify
 gdsc solution challenge 2023
